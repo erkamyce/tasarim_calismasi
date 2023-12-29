@@ -1,6 +1,7 @@
 # tasarim_calismasi
 
-![Uploading Screenshot_20231229_171228.png…]()
+![Screenshot_20231229_171228](https://github.com/erkamyce/tasarim_calismasi/assets/115027797/72ef84cf-f8b3-4f99-a7c2-cb7530452275)
+
 
 
 ## Getting Started
