@@ -1,6 +1,7 @@
 # tasarim_calismasi
 
-A new Flutter project.
+![Uploading Screenshot_20231229_171228.png…]()
+
 
 ## Getting Started
 
